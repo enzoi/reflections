@@ -6,8 +6,12 @@ After a repository is initialized, I can trace all changes of files added to the
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area allows me to double check the files I am going to commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+I can add only files related logically to the staging area and commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
