@@ -21,6 +21,8 @@ keep the original repository intact so can go back to it any time.
 
 How do the diagrams help you visualize the branch structure?
 
+It shows all branches in the repository so I can understand the structure.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
