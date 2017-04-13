@@ -13,7 +13,11 @@ would be always safe.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Branches can be used for your own experiment on your local repository. Clones can be used to start your project
+from other's repository such as a boilerplate code. Also, clones can be used along with forks which is similar to
+to clones that copy someone's repository to your local repository. Difference is that forks copy the codes to your
+github remote not to your local repository. Forks can be used for collaboration with other people while keeping your
+own repository on both your local machine and remote to share your codes with other collaborators.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
