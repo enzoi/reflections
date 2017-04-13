@@ -26,5 +26,11 @@ It shows all branches in the repository so I can understand the structure.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+A commit with one branch combined with other branch and it points two branches as parents.
+We can see where current state(merged branch) came from and which branch is reachable from there.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic merging is convenient because it resolves merging conflicts as much as they can do.
+However, you need to resolve conflicts manually if the merge is complicated. On the other hand,
+always doing merges manually is time consuming if the merges are simple.
